@@ -11,8 +11,8 @@
 
 
 ## Models
-Comparison of well-known ML models: k-NN, multilayer perceptron, random forest, logistic regression
-Hyperparameters tuned and best of each found using RandomizedSearchCV
+- Comparison of well-known ML models: k-NN, multilayer perceptron, random forest, logistic regression
+- Hyperparameters tuned and best of each found using RandomizedSearchCV
 
 ## Metrics
 Precision, Recall (TPR/Sensitivity) and F1 Score 

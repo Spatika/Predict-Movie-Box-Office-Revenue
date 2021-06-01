@@ -8,8 +8,8 @@
   - This can be simulated when trying to predict revenue bucket before production has started
 
 ## Prediction
-- Movie box office revenue predicition converted to a classification problem from a regression problem
-- Each movie in test set is classified into one of 5 revenue buckets: very low, low, medium, high, very high
+- Movie box office revenue prediction converted to a classification problem from a regression problem
+- Each movie in the test set is classified into one of 5 revenue buckets: very low, low, medium, high, very high
 - Bucket ranges are defined by quintiles of the entire range of revenues (on the full dataset, before train-test split)
 
 
